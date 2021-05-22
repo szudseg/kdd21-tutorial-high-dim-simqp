@@ -21,7 +21,7 @@
 title: "Data Science and Engineering Group @ SZU"
 description: "Shenzhen University Data Science and Engineering Group"
 email: qinjianbin@szu.edu.cn
-baseurl: "" # the subpath of your site, e.g. /blog
+baseurl: "/kdd21-tutorial-high-dim-simqp" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 github_username:  szudseg
 author: Dr. Jianbin Qin
