@@ -30,10 +30,10 @@ Jianbin Qin
 : +86-755-26532350
 
 Wei Wang
-: University of New South Wales & Dongguan University of Technology
-: Kensington, NSW, Australia
-: weiw@cse.unsw.edu.au
-: +61-2-9385-7162
+: The Hong Kong University of Science and Technology
+: Clear Water Bay, HKSAR, China
+: weiwcs@ust.hk
+: +952-2358-7029
 
 Chuan Xiao
 : Osaka University & Nagoya University
