@@ -1,8 +1,18 @@
 ---
 layout: post
 title: "KDD2021 Tutorial: High-Dimensional Similarity Query Processing for Data Science"
-date: 2021-05-22 14:50:00
+date: 2021-05-23 12:00:00 +0800
 ---
+
+<style>
+    dl>dt {
+        font-size: 1.25em;
+        font-weight: bold;
+    }
+    dl>dt:not(:first-child){
+        margin-top: .5em;
+    }
+</style>
 
 This is the resource page for our KDD 2021 tutorial titled “High-Dimensional Similarity Query Processing for Data Science” by Jianbin Qin, Wei Wang, Chuan Xiao, Ying Zhang, and Yaoshu Wang.
 
@@ -10,6 +20,38 @@ This is the resource page for our KDD 2021 tutorial titled “High-Dimensional S
 Jianbin Qin, Wei Wang, Chuan Xiao, Ying Zhang, Yaoshu Wang: High-Dimensional Similarity Query Processing for Data Science [Tutorial Proposal]
 
 [PDF](/assets/KDD_2021_Tutorial.pdf)
+
+## Authors
+
+Jianbin Qin
+: Shenzhen University & Shenzhen Institute of Computing Sciences
+: Shenzhen, Guangdong, China
+: qinjianbin@szu.edu.cn
+: +86-755-26532350
+
+Wei Wang
+: University of New South Wales & Dongguan University of Technology
+: Kensington, NSW, Australia
+: weiw@cse.unsw.edu.au
+: +61-2-9385-7162
+
+Chuan Xiao
+: Osaka University & Nagoya University
+: Suita, Osaka, Japan
+: chuanx@ist.osaka-u.ac.jp
+: +81-6-6105-6502
+
+Ying Zhang
+: University of Technology Sydney
+: Ultimo, NSW, Australia
+: Ying.Zhang@uts.edu.au
+: +61-2-9514-1103
+
+Yaoshu Wang
+: Shenzhen University & Shenzhen Institute of Computing Sciences
+: Shenzhen, Guangdong, China
+: yaoshuw@sics.ac.cn
+: +86-755-26532350
 
 ## Abstract
 
