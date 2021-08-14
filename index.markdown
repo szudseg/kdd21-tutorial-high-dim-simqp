@@ -15,7 +15,9 @@ date: 2021-05-23 12:00:00 +0800
 </style>
 
 # High-Dimensional Similarity Query Processing for Data Science
+
 ## Lecture Tutorial for The KDD Conference 2021, August 14-18, 2021
+
 ### Jianbin Qin, Wei Wang, Chuan Xiao, Ying Zhang, Yaoshu Wang
 
 ## Abstract 
