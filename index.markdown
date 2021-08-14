@@ -91,11 +91,17 @@ new technologies for data science.
 
 Slides
 Part I: Introduction [slides](/assets/KDD21-tutorial-1-intro-wang.pdf)
+
 Part II: Exact Query Processing [slides](/assets/KDD21-tutorial-2-exact-qin.pdf)
+
 Part IIIa: Approximate Query Processing A [slides](/assets/KDD21-tutorial-3a-ANN-wang.pdf)
+
 Part IIIb: Approximate Query Processing B [slides](/assets/KDD21-tutorial-3b-ANN-wang.pdf)
+
 Part IV: Neighbourhood-based Nearest Neighbour Search [slides](/assets/KDD21-tutorial-4-knn-graph-zhang.pdf)
+
 Part V: Selectivity Estimation [slides](/assets/KDD21-tutorial-5-selectivity-xiao.pdf)
+
 Part V: Epilogue [slides](/assets/KDD21-tutorial-6-epilogue-wang.pdf)
 
 
